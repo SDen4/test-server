@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "name": "project12",
+  "description": "asd;kfjlaldksnfakldnsfasfsad",
+  "status": "ACTIVE",
+  "type": "DOCKER",
+  "gitUrl": "asd;ktf oienmsdlkvgmc",
+  "gitBranch": "ds;aflkjsad;gfljdsafg",
+  "ownerId": 1,
+  "ownerName": "Owner 1",
+  "ports": ["8080:08808", "9090:909090"],
+  "envs": ["ENV1=123", "ENV2=345", "ENV2345"],
+  "createDate": "2023-05-01T14:30:00.000-0700",
+  "cpuConsumption": 0.5,
+  "cpuRequest": 1,
+  "ramConsumption": 0.3,
+  "ramRequest": 1,
+  "storageConsumption": 0.2,
+  "storageRequest": 1
+}

@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": 12,
+      "name": "project12",
+      "description": "asd;kfjlaldksnfakldnsfasfsad",
+      "status": "ACTIVE",
+      "type": "DOCKER",
+      "gitUrl": "asd;ktf oienmsdlkvgmc",
+      "gitBranch": "ds;aflkjsad;gfljdsafg",
+      "ownerId": 1,
+      "ownerName": "Owner 1",
+      "ports": ["8080:08808", "9090:909090"],
+      "envs": ["ENV1=123", "ENV2=345", "ENV2345"],
+      "createDate": "2023-05-01T14:30:00.000-0700",
+      "cpuConsumption": 0.5,
+      "cpuRequest": 1,
+      "ramConsumption": 0.3,
+      "ramRequest": 1,
+      "storageConsumption": 0.2,
+      "storageRequest": 1
+    },
+    {
+      "id": 13,
+      "name": "project 13",
+      "description": "asdASDFASD;kfjlaldksnfakldnsfasfsad",
+      "status": "ERROR",
+      "type": "JAVA",
+      "gitUrl": "ADSFasd;ktf oienmsdlkvgmc",
+      "gitBranch": "DSFds;aflkjsad;gfljdsafg",
+      "ownerId": 2,
+      "ownerName": "Owner 2",
+      "ports": ["8081:08808", "9091:909090"],
+      "envs": ["ENV1=123", "ENV2=345"],
+      "createDate": "2023-06-02T14:30:00.000-0700",
+      "cpuConsumption": 0.1,
+      "cpuRequest": 1,
+      "ramConsumption": 0.9,
+      "ramRequest": 1,
+      "storageConsumption": 0.7,
+      "storageRequest": 1
+    },
+    {
+      "id": 14,
+      "name": "project 14",
+      "description": "ADSFasdASDFASD;kfjlaldksnfakldnsfasfsad",
+      "status": "STOPPED",
+      "type": "PYTHON",
+      "gitUrl": "sdADSFasd;ktf oienmsdlkvgmc",
+      "gitBranch": "sdfDSFds;aflkjsad;gfljdsafg",
+      "ownerId": 3,
+      "ownerName": "Owner 3",
+      "ports": ["8083:08808", "9093:909090"],
+      "envs": ["ENV3=123", "ENV3=345"],
+      "createDate": "2023-09-02T14:30:00.000-0700",
+      "cpuConsumption": 0.2,
+      "cpuRequest": 1,
+      "ramConsumption": 0.8,
+      "ramRequest": 1,
+      "storageConsumption": 0.6,
+      "storageRequest": 1
+    }
+  ],
+  "bigData": [
+    { "value": 7, "max": 10, "measure": "Ghz" },
+    { "value": 2.999999999999, "max": 20, "measure": "Mb" },
+    { "value": 80, "max": 100, "measure": "Gb" }
+  ]
+}
