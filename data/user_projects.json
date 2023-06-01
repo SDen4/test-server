@@ -17,7 +17,8 @@
     "ramConsumption": 0.3,
     "ramRequest": 1,
     "storageConsumption": 0.2,
-    "storageRequest": 1
+    "storageRequest": 1,
+    "appLink": "http://e1.ru"
   },
   {
     "id": 13,
@@ -37,7 +38,8 @@
     "ramConsumption": 0.9,
     "ramRequest": 1,
     "storageConsumption": 0.7,
-    "storageRequest": 1
+    "storageRequest": 1,
+    "appLink": "http://toprod.fun:31929"
   },
   {
     "id": 14,
@@ -57,6 +59,7 @@
     "ramConsumption": 0.8,
     "ramRequest": 1,
     "storageConsumption": 0.6,
-    "storageRequest": 1
+    "storageRequest": 1,
+    "appLink": "http://toprod.fun:31929"
   }
 ]

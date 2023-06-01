@@ -18,7 +18,8 @@
       "ramConsumption": 0.3,
       "ramRequest": 1,
       "storageConsumption": 0.2,
-      "storageRequest": 1
+      "storageRequest": 1,
+      "appLink": "http://toprod.fun:31929"
     },
     {
       "id": 13,
@@ -38,7 +39,8 @@
       "ramConsumption": 0.9,
       "ramRequest": 1,
       "storageConsumption": 0.7,
-      "storageRequest": 1
+      "storageRequest": 1,
+      "appLink": "http://toprod.fun:31929"
     },
     {
       "id": 14,
@@ -58,12 +60,16 @@
       "ramConsumption": 0.8,
       "ramRequest": 1,
       "storageConsumption": 0.6,
-      "storageRequest": 1
+      "storageRequest": 1,
+      "appLink": "http://toprod.fun:31929"
     }
   ],
-  "bigData": [
-    { "value": 7, "max": 10, "measure": "Ghz" },
-    { "value": 2.999999999999, "max": 20, "measure": "Mb" },
-    { "value": 80, "max": 100, "measure": "Gb" }
-  ]
+  "clusterStatistics": {
+    "currentCpu": 5.9999999,
+    "availibleCpu": 10,
+    "currentRam": 10,
+    "availibleRam": 20.88888888,
+    "currentStorage": 20.0,
+    "availibleStorage": 100
+  }
 }
